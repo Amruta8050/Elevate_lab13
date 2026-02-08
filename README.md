@@ -63,5 +63,9 @@ outputs/
 │
 └── results/
 └── pca_accuracy_comparison.csv
-## 📂 Output Files Generated
 
+
+#Outputs
+<img width="1039" height="610" alt="Image" src="https://github.com/user-attachments/assets/f4dc9d5a-13bb-43cf-8277-5f26fbb45139" />
+<img width="652" height="258" alt="Image" src="https://github.com/user-attachments/assets/01e81f2e-4e52-43be-bb15-1ac68171c63b" />
+<img width="830" height="647" alt="Image" src="https://github.com/user-attachments/assets/5166d72c-33ca-4cec-9c6e-23c2a515deec" />
